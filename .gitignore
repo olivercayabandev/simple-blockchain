@@ -1,0 +1,14 @@
+#Python bytecode
+__pycache__/
+*.pyc
+
+#Local Database/Data files
+blockchain_data.json
+*.db
+*.sqlite3
+
+#Environment secrets
+.env
+
+#Node modules
+node_modules/
